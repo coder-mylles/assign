@@ -1,4 +1,4 @@
-# project name
+# Project name
 My site 
 ## Author
 Martin Mylles
