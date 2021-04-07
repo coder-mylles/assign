@@ -19,8 +19,9 @@ To access this project on your local files, you can clone it using these steps
 3. This will clone the repositoty into your local folder
 4. 
 ### Style sheet language  Used
-I. HTML
-II. CSS
+1. HTML
+2. CSS
 
 ## Vesion control system used
+
 Git
